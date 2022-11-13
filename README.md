@@ -1,4 +1,4 @@
-# Instagram Clone - Webture
+# Instagram Clone
 
 Table of Contents
 
